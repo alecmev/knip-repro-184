@@ -1,0 +1,5 @@
+{
+  "name": "@org/foo",
+  "type": "module",
+  "bin": "./index.js"
+}

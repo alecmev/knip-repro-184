@@ -1,0 +1,11 @@
+{
+  "name": "@org/bar",
+  "type": "module",
+  "scripts": {
+    "a": "foo --arg",
+    "b": "run a"
+  },
+  "dependencies": {
+    "@org/foo": "workspace:*"
+  }
+}
